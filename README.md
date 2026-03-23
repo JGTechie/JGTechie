@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Joy Guo 👋</h1>
 
-<!--
-**JGTechie/JGTechie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://anotherspace.io/">Founder @ Another Space</a> • fintech entrepreneur building AI agents for startup finance
+</p>
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://img.shields.io/badge/Fintech-Entrepreneur-blue?style=for-the-badge" alt="Fintech"/>
+  <img src="https://img.shields.io/badge/AI%20Agents-orange?style=for-the-badge" alt="AI Agents"/>
+  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python" alt="Python"/>
+  <!-- Add more badges for your stack: e.g. LangChain, OpenAI, etc. -->
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I Build
+I'm creating **AI-native financial agents** that help founders run smarter finance without spreadsheets:
+- **Moniq** → Instant answers on cash flow, burn rate, expenses
+- **Ascent** → Builds models, unit economics, pitch decks for fundraising
+- **Clara** → Budgeting, forecasting, runway tracking & alerts
+
+All powered by AI agents — check out the products at https://anotherspace.io/products/
+
+### Open Source Contributions
+I'm sharing useful tools & examples from the fintech + AI space:
+
+- **[claude-skills](https://github.com/JGTechie/claude-skills)** — Prompt engineering patterns & reusable skills for Claude/Anthropic models (useful for agent builders)
+- More coming soon...
+
+### Let's Connect
+- 🌐 Website: https://anotherspace.io/
+- 📧 Email: [your-email]
+- 🔗 LinkedIn / Twitter / etc. (add if you have)
+
+Thanks for stopping by! 🚀
