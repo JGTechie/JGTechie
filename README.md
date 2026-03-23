@@ -27,7 +27,7 @@ I'm sharing useful tools & examples from the fintech + AI space:
 
 ### Let's Connect
 - 🌐 Website: https://anotherspace.io/
-- 📧 Email: [your-email]
-- 🔗 LinkedIn / Twitter / etc. (add if you have)
+- 📧 Email: jg@anotherspace.io
+- 🔗 X/Twitter:https://x.com/Joyyguo
 
 Thanks for stopping by! 🚀
