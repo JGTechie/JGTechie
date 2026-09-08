@@ -1,33 +1,31 @@
 <h1 align="center">Hi, I'm Joy Guo 👋</h1>
 
 <p align="center">
-  <a href="https://anotherspace.io/">Founder @ Another Space</a> • fintech entrepreneur building AI agents for startup finance
+  Building <a href="https://atomode.io">Atomode</a> · Founder of <a href="https://anotherspace.io">Another Space</a>
 </p>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Fintech-Entrepreneur-blue?style=for-the-badge" alt="Fintech"/>
-  <img src="https://img.shields.io/badge/AI%20Agents-orange?style=for-the-badge" alt="AI Agents"/>
-  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python" alt="Python"/>
-  <!-- Add more badges for your stack: e.g. LangChain, OpenAI, etc. -->
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Hardware-Supply_Chains-2563EB?style=for-the-badge" alt="Hardware Supply Chains" />
+  <img src="https://img.shields.io/badge/Strategic-Finance-0F766E?style=for-the-badge" alt="Strategic Finance" />
+  <img src="https://img.shields.io/badge/Exploring-Robotics_%26_AI-7C3AED?style=for-the-badge" alt="Exploring Robotics and AI" />
+</p>
 
-### What I Build
-I'm creating **AI-native financial agents** that help founders run smarter finance without spreadsheets:
-- **Moniq** → Instant answers on cash flow, burn rate, expenses
-- **Ascent** → Builds models, unit economics, pitch decks for fundraising
-- **Clara** → Budgeting, forecasting, runway tracking & alerts
+I'm building **Atomode**, a Greater Bay Area supply chain consultancy for hardware teams globally, and running **Another Space**, providing strategic finance support for tech startups.
 
-All powered by AI agents — check out the products at https://anotherspace.io/products/
+I'm exploring how robotics and AI infrastructure companies move from ideas to physical deployment, particularly the sourcing, manufacturing and commercial challenges along the way.
 
-### Open Source Contributions
-I'm sharing useful tools & examples from the fintech + AI space:
+## 🔨 What I'm Working On
 
-- **[claude-skills](https://github.com/JGTechie/claude-skills)** — Prompt engineering patterns & reusable skills for Claude/Anthropic models (useful for agent builders)
-- More coming soon...
+- **[Atomode](https://atomode.io):** helping global hardware teams identify and qualify suppliers in the Greater Bay Area.
+- **[Another Space](https://anotherspace.io):** strategic finance support for tech startups.
+- **Practical AI tools:** building workflows that support research, financial analysis and business decisions.
 
-### Let's Connect
-- 🌐 Website: https://anotherspace.io/
-- 📧 Email: jg@anotherspace.io
-- 🔗 X/Twitter:https://x.com/Joyyguo
+## 🤝 Let's Connect
+
+I'm interested in connecting with robotics founders, hardware teams, suppliers and builders working across software and the physical world.
+
+- 🌐 **Atomode:** [atomode.io](https://atomode.io)
+- 💼 **Another Space:** [anotherspace.io](https://anotherspace.io)
+- 💬 **X / Twitter:** [@Joyyguo](https://x.com/Joyyguo)
 
 Thanks for stopping by! 🚀
