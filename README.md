@@ -18,7 +18,7 @@ I'm exploring how robotics and AI infrastructure companies move from ideas to ph
 
 - **[Atomode](https://atomode.io):** helping global hardware teams identify and qualify suppliers in the Greater Bay Area.
 - **[Another Space](https://anotherspace.io):** strategic finance support for tech startups.
-- **Practical AI tools:** building workflows that support research, financial analysis and business decisions.
+- **[Practical AI tools](https://moniq.anotherspace.io):** building workflows that support research, financial analysis and business decisions.
 
 ## 🤝 Let's Connect
 
