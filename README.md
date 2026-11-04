@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Exploring-Robotics_%26_AI-7C3AED?style=for-the-badge" alt="Exploring Robotics and AI" />
 </p>
 
-I'm building **Atomode**, a Greater Bay Area supply chain consultancy for hardware teams globally, and running **Another Space**, providing strategic finance support for tech startups.
+I'm building **Atomode**, Shenzhen/HK supply chain partner for hardware teams globally, and running **Another Space**, providing strategic finance support for tech startups.
 
 I'm exploring how robotics and AI infrastructure companies move from ideas to physical deployment, particularly the sourcing, manufacturing and commercial challenges along the way.
 
@@ -20,7 +20,7 @@ I'm exploring how robotics and AI infrastructure companies move from ideas to ph
 - **[Another Space](https://anotherspace.io):** strategic finance support for tech startups.
 - **[Practical AI tools](https://moniq.anotherspace.io):** building workflows that support research, financial analysis and business decisions.
 
-## 🌙 Moonlog
+## 🌙 Cycle Notes
 
 <p>
   <a href="https://period-tracker-001.netlify.app/">
