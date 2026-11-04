@@ -29,6 +29,11 @@ I'm exploring how robotics and AI infrastructure companies move from ideas to ph
   A privacy-first period tracker built for absolute data sovereignty. It bypasses cloud dependencies using 100% local storage, featuring native JSON state restoration and CSV exports.
 </p>
 
+## Claude Skills
+
+- **[Verify Financial Model](https://github.com/JGTechie/claude-skills/tree/main/skills/verify-financial-model):** a read-only review workflow for startup financial models, covering formulas, cash flow, assumptions and outputs with cell-level evidence. Flags gaps and judgment questions without changing the workbook.
+- Explore the full **[Claude Skills for Fintech](https://github.com/JGTechie/claude-skills)** collection.
+
 ## 🤝 Let's Connect
 
 I'm interested in connecting with robotics founders, hardware teams, suppliers and builders working across software and the physical world.
@@ -38,3 +43,4 @@ I'm interested in connecting with robotics founders, hardware teams, suppliers a
 - 💬 **X / Twitter:** [@Joyyguo](https://x.com/Joyyguo)
 
 Thanks for stopping by! 🚀
+
