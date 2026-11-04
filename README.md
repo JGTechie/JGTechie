@@ -26,7 +26,7 @@ I'm exploring how robotics and AI infrastructure companies move from ideas to ph
   <a href="https://period-tracker-001.netlify.app/">
     <img src="assets/moonlog-icon.png" alt="Cycle Notes app icon" width="32" height="32" align="left" />
   </a>
-  A privacy-first period-tracking app I built as a side project. No account required. Period records are stored locally in your browser, with no automatic upload or app cloud sync. You choose when and where to export your data.
+  A privacy-first period-tracking app I built as a side project. No account required. Period records are stored 100% locally, with no automatic upload or app cloud sync. You choose when and where to export your data. Designed for absolute data sovereignty, it bypasses cloud dependencies entirely and features native JSON state restoration and CSV exports.
 </p>
 
 **[Open Cycle Notes →](https://period-tracker-001.netlify.app/)**
